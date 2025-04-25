@@ -14,5 +14,7 @@
         <permission name="android.permission.UPDATE_DEVICE_STATS"/>
         <permission name="android.permission.WATCH_APPOPS"/>
         <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
+        <permission name="android.permission.INTERACT_ACROSS_PROFILES" />
+        <permission name="android.permission.INTERACT_ACROSS_USERS" />
     </privapp-permissions>
 </permissions>
